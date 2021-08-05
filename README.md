@@ -1,7 +1,7 @@
 # convex-convolution
 Python code for stroking a convex polygon along a polyline.
 
-This is an implementation of the same algorithm as this ([Observable notebook](https://observablehq.com/@theohonohan/minkowski-sum-of-polygons-an-elliptical-pen-on-a-bezier-curv). The final cleanup stage is unimplemented.
+This is an implementation of the same algorithm as this [Observable notebook](https://observablehq.com/@theohonohan/minkowski-sum-of-polygons-an-elliptical-pen-on-a-bezier-curv). The final cleanup stage is unimplemented.
 
 
 ![convolution](convolution.png)
